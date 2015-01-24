@@ -18,7 +18,7 @@ public class ScoreGui extends JFrame implements ActionListener {
 	JTextField jtxtDisplay = new JTextField();
 	//panel.setLayout(new GridLayout(5,2));
 	/**
-	 *  Builds the panel layout with buttons and textboxes for user to enter score and score weights
+	 *  Builds the panel layout with buttons and text boxes for user to enter score and score weights
 	 */
 	
 	int [] score = new int [4];
